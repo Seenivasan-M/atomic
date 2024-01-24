@@ -37,6 +37,7 @@ public class time{
         wtime in=new wtime(23,34);
         in.Wtime();
         // System.out.println(in.wtime());
+      
 
+        }
     }
-}
