@@ -1,7 +1,28 @@
 import java.util.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+import java.util.HashMap;
 
+class hashmap<h>{
+   
+
+    static void map(){
+        LinkedList <String> list=new LinkedList<String >();
+        list.add("exisit");
+        list.get(0);
+        list.addFirst("equitiy");
+        list.remove(0);
+
+        for(String y:list){
+        
+            System.out.println(y);
+        }
+    HashMap <String,Integer> tag= new HashMap<String,Integer>();
+
+    tag.put("rgerg",23);
+    }
+
+}
 
 //class
 
@@ -22,7 +43,10 @@ void inhi(){
 
 public class time{
     public static void main(String ...args) throws Exception{
+        hashmap had=new hashmap();
         
+
+        System.out.println();
 
         begin var=new begin();
         var.inhi();
